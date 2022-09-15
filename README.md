@@ -1,8 +1,6 @@
 # class-dump
 基于class-dump源代码，解决报错的可用库。
 
-# class-dump
-
 class-dump，顾名思义，就是用来dump目标对象 的class信息的工具。它利用Objective-C语言的runtime 特性，将存储在Mach-O文件中的头文件信息提取出 来，并生成对应的.h文件。
 
 ## 下载
